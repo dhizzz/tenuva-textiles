@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 140" width="540" height="140" role="img" aria-label="Tenuva Textiles logo">
+  <!-- Warp and Weft mark: 4x4 weave, over-under pattern -->
+  <rect x="20" y="22" width="96" height="96" rx="14" fill="#F3EEE4"/>
+  <g>
+    <!-- vertical warp threads -->
+    <rect x="28" y="22" width="14" height="96" fill="#17204D"/>
+    <rect x="50" y="22" width="14" height="96" fill="#17204D"/>
+    <rect x="72" y="22" width="14" height="96" fill="#17204D"/>
+    <rect x="94" y="22" width="14" height="96" fill="#17204D"/>
+    <!-- horizontal weft threads, passing over on alternating cells -->
+    <g stroke="#F3EEE4" stroke-width="2.5">
+      <rect x="22" y="30" width="26" height="14" fill="#E8A33D"/>
+      <rect x="66" y="30" width="26" height="14" fill="#E8A33D"/>
+      <rect x="44" y="52" width="26" height="14" fill="#E8A33D"/>
+      <rect x="88" y="52" width="26" height="14" fill="#E8A33D"/>
+      <rect x="22" y="74" width="26" height="14" fill="#E8A33D"/>
+      <rect x="66" y="74" width="26" height="14" fill="#E8A33D"/>
+      <rect x="44" y="96" width="26" height="14" fill="#E8A33D"/>
+      <rect x="88" y="96" width="26" height="14" fill="#E8A33D"/>
+    </g>
+  </g>
+  <rect x="20" y="22" width="96" height="96" rx="14" fill="none" stroke="#17204D" stroke-width="4"/>
+  <!-- Wordmark -->
+  <text x="140" y="80" font-family="'Fraunces','Playfair Display',Georgia,serif" font-size="56" font-weight="600" letter-spacing="-1" fill="#F3EEE4">Tenuva</text>
+  <text x="142" y="108" font-family="'DM Mono','JetBrains Mono',monospace" font-size="15" font-weight="500" letter-spacing="7.5" fill="#A9B8A0">TEXTILES</text>
+</svg>
